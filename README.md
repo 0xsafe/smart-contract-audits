@@ -1,7 +1,7 @@
 # Smart Contract Audits
 We have worked on all major blockchains including Etherum, Binance Smart Chain, Avalance, Dogechain, Cronos, Polygon, Tron, Fantom, and more. In this repository, we'll upload audit reports. To request a smart contract audit, contact https://t.me/Oxsafe
 
-# About 0xsafe
+## About 0xsafe
 
 0xsafe provides intelligent blockchain solutions. We provide smart contract security, KYC, development, and token launch services. We have helped 100s of projects to succeed. 
 
@@ -12,7 +12,7 @@ GitHub: https://github.com/0xsafe
 Telegram: https://t.me/Oxsafe 
 
 
-# Important Disclaimer
+## Important Disclaimer
 
 Smart contracts are analyzed by 0xsafe for common contract vulnerabilities and centralization exploits. The audit report provided by 0xsafe does not make any statements or warranties regarding the security of the code analyzed. The audit report does not guarantee that the smart contract analyzed is completely free of bugs or provide any indication of the client's business, business model, or legal compliance. Additionally, the audit report does not extend to the compiler layer, any other areas beyond the programming language, or other programming aspects that could present security risks. It is important to note that cryptographic tokens are emergent technologies that carry high levels of technical risks and uncertainty. By accessing and/or using any services, reports, and materials provided by 0xsafe, you agree to assume the sole risk of your actions on an as-is, where-is, and as-available basis. The audit report may include false positives, false negatives, and other unpredictable results.
 
