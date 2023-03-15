@@ -3,7 +3,5 @@
 
 ## Official Links
 * Website - https://0xsafe.io
-* Orders - https://t.me/KineticCrypto
-* Telegram ANN - https://t.me/Audit_0xSafe
-* Telegram Chat - https://t.me/Audit_0xSafegroup
+* Orders - https://t.me/Oxsafe
 * Twitter - https://twitter.com/0xsafe_io
